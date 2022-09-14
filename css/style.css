@@ -1,8 +1,9 @@
 @font-face {
-  font-family: Monstserrat;
+  font-family: Montserrat;
   src: url(/fonts/Montserrat-Medium.ttf);
 }
 body {
+  font-family: Montserrat;
   padding: 0;
   margin: 0;
 }

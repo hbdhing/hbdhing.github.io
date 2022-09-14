@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Monstserrat;
+    font-family: Montserrat;
     src: url(/fonts/Montserrat-Medium.ttf);
 }
 
@@ -9,6 +9,7 @@ $grey: #F0F0F0;
 $white: #FFF;
 
 body {
+    font-family: Montserrat;
     padding: 0;
     margin: 0;
 
