@@ -54,3 +54,19 @@ body .hero .hero-text {
 body #wufoo-z1hpkr8h1t12dno {
   text-align: center;
 }/*# sourceMappingURL=style.css.map */
+
+
+#wufooFormz1hpkr8h1t12dno{
+  text-align: center !important;
+  max-width: 500px !important;
+}
+
+#form1{
+  display: none !important;
+}
+
+#footer a img{
+  opacity: 0 !important;
+  background-color: red !important;
+  margin-top: 1000px !important;
+}
