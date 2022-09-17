@@ -51,9 +51,30 @@ body .hero .hero-text {
   padding: 10px;
   text-align: center;
 }
-
-.hiferino{
-  display: none !important;
-  opacity: 0 !important;
-  visibility: hidden !important;
+body .map-section {
+  display: flex;
+  justify-content: center;
+  border: #000 solid 10px;
 }
+body .map-section h3 {
+  padding-top: 200px;
+  padding-left: 5%;
+}
+body .map-section .mapouter {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  text-align: right;
+  height: 500px;
+  width: 600px;
+  padding: 50px;
+}
+body .map-section .mapouter .gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 500px;
+  width: 600px;
+}
+body #wufoo-z1hpkr8h1t12dno {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */

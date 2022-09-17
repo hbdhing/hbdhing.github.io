@@ -68,6 +68,34 @@ body {
         }
     }
 
+    .map-section {
+        display: flex;
+        justify-content: center;
+        border: #000 solid 10px;
+
+        h3 {
+            padding-top: 200px;
+            padding-left: 5%;
+        }
+        
+        .mapouter {
+            display: flex;
+            justify-content: center;
+            position:relative;
+            text-align:right;
+            height:500px;
+            width:600px;
+            padding: 50px;
+            
+            .gmap_canvas {
+                overflow:hidden;
+                background:none!important;
+                height:500px;
+                width:600px;
+            }
+        }
+    }
+
     #wufoo-z1hpkr8h1t12dno {
         text-align: center;
     }
