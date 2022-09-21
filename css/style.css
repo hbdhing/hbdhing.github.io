@@ -41,6 +41,7 @@ body .hero .images {
 }
 body .hero .images img {
   padding: 30px;
+  border-radius: 40px;
 }
 body .hero .hero-text {
   position: absolute;
@@ -50,6 +51,16 @@ body .hero .hero-text {
   margin-top: 500px;
   padding: 10px;
   text-align: center;
+}
+body .baby-pic {
+  display: flex;
+  justify-content: center;
+}
+body .baby-pic img {
+  height: 300px;
+  display: flex;
+  padding: 30px;
+  border-radius: 120px;
 }
 body .map-section {
   display: flex;
