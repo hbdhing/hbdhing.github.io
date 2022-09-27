@@ -52,16 +52,6 @@ body .hero .hero-text {
   padding: 10px;
   text-align: center;
 }
-body .baby-pic {
-  display: flex;
-  justify-content: center;
-}
-body .baby-pic img {
-  height: 300px;
-  display: flex;
-  padding: 30px;
-  border-radius: 120px;
-}
 body .map-section {
   display: flex;
   justify-content: center;
